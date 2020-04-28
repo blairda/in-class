@@ -1,0 +1,13 @@
+/* =============
+    Base
+============= */
+ul {
+  padding: 0; }
+  ul li {
+    list-style: none; }
+
+.show-for-md {
+  display: none; }
+
+.show-for-lg {
+  display: none; }
