@@ -2,6 +2,23 @@
     Section 3
 ============= */
 #section-3{
+
+    @include xl{
+        display: grid;
+        grid-template-columns: auto 1200px auto;
+        grid-template-areas: ". section-3-desktop .";
+    }
+
+    #section-3-desktop{
+        @include lg{
+         display: grid;
+        grid-template-columns: 40% auto; 
+    }
+
+        @include xl{
+            grid-area: section-3-desktop;
+        }
+    }
     
     aside{
     
