@@ -1,20 +1,21 @@
 /* =============
-    Section-5
+    Section 5
 ============= */
 
 #section-5{
-    
     display: grid;
     grid-template-columns: 15px auto 15px;
-    grid-template-areas: ". section-5 .";
+    grid-template-areas: '. section-5 .';
 
     ul{
         grid-area: section-5;
         display: grid;
-        gap: 20px;
+        gap:20px;
 
         @include md{
             grid-template-columns: repeat(2, 1fr);
+            // grid-template-columns: 50% 50%;
+            // grid-template-columns: 50% auto;
 
             grid-template-areas: 
             "g1 g3"
@@ -64,7 +65,7 @@
             }
         }
 
-        #g1{
+        #g7{
             @include md{
                 grid-area: g7;
             }
