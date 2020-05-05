@@ -3,9 +3,24 @@
 ============= */
 
 #section-1{
-    
-    img{
-        width: 100%;
+    background-image: url('../img/section-1/hero.jpg');
+    background-size: cover;
+    background-position: center;
+
+    // border: 1px solid red;
+    height: 50vh;
+
+    @include md{
+        height: 60vh;
     }
+
+    @include lg{
+        height: 70vh;
+    }
+
+    @include xl{
+        height: 50vh;
+    }
+
 
 }
