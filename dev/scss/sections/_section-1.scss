@@ -5,9 +5,8 @@
 #section-1{
     background-image: url('../img/section-1/hero.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
-
-    // border: 1px solid red;
     height: 50vh;
 
     @include md{
@@ -21,6 +20,5 @@
     @include xl{
         height: 50vh;
     }
-
 
 }

@@ -9,6 +9,94 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/Assets/shutterstock_286990526.jpg": {
+		"ft": 16384,
+		"iS": 16224438,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_286990526.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_287640212.jpg": {
+		"ft": 16384,
+		"iS": 6438108,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_287640212.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_287641082.jpg": {
+		"ft": 16384,
+		"iS": 18046221,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_287641082.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_333995528.jpg": {
+		"ft": 16384,
+		"iS": 14509118,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_333995528.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_667612975.jpg": {
+		"ft": 16384,
+		"iS": 18338295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_667612975.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_667612999.jpg": {
+		"ft": 16384,
+		"iS": 17606586,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_667612999.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_667616446.jpg": {
+		"ft": 16384,
+		"iS": 12406567,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_667616446.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/shutterstock_687505582.jpg": {
+		"ft": 16384,
+		"iS": 18756177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/shutterstock_687505582.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -51,7 +139,7 @@
 		},
 	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
-		"iS": 337746,
+		"iS": 647060,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-1/hero.jpg",
@@ -73,7 +161,7 @@
 		},
 	"/deploy/img/section-3/grid-bot.jpg": {
 		"ft": 16384,
-		"iS": 185897,
+		"iS": 118987,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-3/grid-bot.jpg",
@@ -199,8 +287,8 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 3
+		"oAP": "/dev/index.html",
+		"oF": 0
 		},
 	"/dev/js/scripts.js": {
 		"bF": 0,
@@ -416,8 +504,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/css/styles.css",
-		"oF": 2,
+		"oAP": "/dev/scss/styles.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -443,7 +531,7 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/section-3.html",
-		"oF": 1
+		"oF": 0
 		},
 	"/dev/section-4.kit": {
 		"cB": 0,
